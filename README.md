@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @IsaacOrzDev
 - 👀 I’m interested in React.js and Node.js
-- 🌱 I’m currently learning Nest.js and AWS
