@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @IsaacOrzDev
 - 👀 I’m interested in React.js and Node.js
+- You can see what projects I have worked on from [https://isaacdev.com/](https://isaacdev.com/)
