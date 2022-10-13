@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsaacOrzDev
+- 👋 Hi, I’m @IsaacOrzDev, a Fullstack Engineer / Developer
 - 👍 I’m interested in Node.js, React.js and AWS CDK
 - ✔ I prefer to use Typescript rather than Javascript
 - 👀 You can see what projects I have worked on from [https://personal.isaacdev.net](https://personal.isaacdev.net)
