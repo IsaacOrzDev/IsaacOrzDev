@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IsaacOrzDev, a Fullstack Engineer / Developer / what ever
+- 👋 Hi, I’m @IsaacOrzDev, a [Fullstack](https://roadmap.sh/) Engineer / Developer / what ever
 - 👍 I’m interested in [Node.js](https://nodejs.org/), [React.js](https://reactjs.org/) and [AWS CDK](https://aws.amazon.com/cdk/?nc1=h_ls)
 - ✔ I prefer to use [Typescript](https://www.typescriptlang.org/) rather than Javascript
 - 👀 You can see what projects I have worked on from [here](https://personal.isaacdev.net)
