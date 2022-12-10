@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @IsaacOrzDev, a [Fullstack](https://roadmap.sh/) Engineer / Developer / what ever
-- 👍 I’m interested in [Node.js](https://nodejs.org/), [React.js](https://reactjs.org/), [tRPC](https://trpc.io/), [gRPC](https://grpc.io/), [Microservices](https://aws.amazon.com/microservices/?nc1=h_ls) and [AWS CDK](https://aws.amazon.com/cdk/?nc1=h_ls)
+- 👍 I’m interested in [Node.js](https://nodejs.org/), [React.js](https://reactjs.org/), [tRPC](https://trpc.io/), [gRPC](https://grpc.io/), [Microservices](https://aws.amazon.com/microservices/?nc1=h_ls), [Github Actions](https://github.com/features/actions) and [AWS CDK](https://aws.amazon.com/cdk/?nc1=h_ls)
 - ✔ I prefer to use [Typescript](https://www.typescriptlang.org/) rather than Javascript
 - 👀 You can see what projects I have worked on from [here](https://personal.isaacdev.net)
