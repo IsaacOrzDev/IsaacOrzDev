@@ -1,3 +1,10 @@
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
 - 👋 Hi, I’m a [Fullstack](https://roadmap.sh/) Engineer / Developer / what ever
 - 👍 I’m interested in [Node.js](https://nodejs.org/), [Python](https://www.python.org/), [Kubernetes](https://kubernetes.io/), [Microservices](https://aws.amazon.com/microservices/?nc1=h_ls), [Terraform](https://www.terraform.io/), [Pulumi](https://www.pulumi.com/), [React.js](https://reactjs.org/)
 - 👀 You can see what projects I have worked on from [here](https://personal.isaacdev.net)
