@@ -6,7 +6,7 @@
   ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 - 👋 Hi, I’m a [Software](https://roadmap.sh/) Engineer / Developer / what ever
-- 👍 I’m interested in [Node.js](https://nodejs.org/), [Python](https://www.python.org/), [GoLang](https://go.dev/), [Kubernetes](https://kubernetes.io/), [Microservices](https://aws.amazon.com/microservices/?nc1=h_ls), [gRPC](https://grpc.io/), [AWS](https://aws.amazon.com/), [Terraform](https://www.terraform.io/), [Pulumi](https://www.pulumi.com/)
+- 👍 I prefer to use [Node.js](https://nodejs.org/), [Python](https://www.python.org/), [GoLang](https://go.dev/), [Next.js](https://nextjs.org/), [Qdrant](https://qdrant.tech/), [Kubernetes](https://kubernetes.io/), [gRPC](https://grpc.io/), [AWS](https://aws.amazon.com/), [Terraform](https://www.terraform.io/), [Pulumi](https://www.pulumi.com/) and [Colab](https://colab.google/)
 - 👀 You can see what projects I have worked on from [here](https://personal.isaacdev.net)
 - 🗣️ You can chat with me in [here](https://chat.isaacdev.net)
 - ✍️ I also draw and paint sometimes, you can take a look in [here](https://personal-drawings.vercel.app)
